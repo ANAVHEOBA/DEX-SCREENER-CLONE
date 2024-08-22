@@ -3,7 +3,7 @@ import TokenRow from './TokenRow';
 
 const TokenTable = ({ tokens }) => {
   return (
-    <div className="bg-gray-800 p-4 text-white rounded">
+    <div className="bg-gray-900 p-4 text-white rounded">
       <table className="w-full">
         <thead>
           <tr className="border-b">

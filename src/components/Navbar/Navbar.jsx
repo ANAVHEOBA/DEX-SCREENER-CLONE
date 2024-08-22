@@ -2,7 +2,7 @@ import React from 'react';
 
 const Navbar = () => {
   return (
-    <nav className="bg-gray-800 p-4 flex justify-between items-center">
+    <nav className="bg-gray-900 p-4 flex justify-between items-center">
       <div className="text-white font-bold text-lg">DEXSCREENER</div>
       <div>
         <input
